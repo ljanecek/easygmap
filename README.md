@@ -1,4 +1,6 @@
-EasyGoogleMaps
+EasyGoogleMap
 =============
 
-EasyGoogleMaps
+EasyGoogleMap is plugin for jQuery.
+
+Example is in index.html
