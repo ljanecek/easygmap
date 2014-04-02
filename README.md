@@ -1,4 +1,4 @@
-easygooglemap
+EasyGoogleMaps
 =============
 
 EasyGoogleMaps
